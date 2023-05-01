@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { Header, Hero, About, Skills } from "./Components/Index.js";
+import { Header, Hero, About, Skills, Portfolio } from "./Components/Index.js";
 
 import "./App.css";
 
@@ -11,6 +11,7 @@ function App() {
         <Hero />
         <About />
         <Skills />
+        <Portfolio />
       </div>
     </>
   );

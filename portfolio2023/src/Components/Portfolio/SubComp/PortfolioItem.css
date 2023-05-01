@@ -1,0 +1,34 @@
+.Port_image {
+  border-radius: 20px;
+  width: 100%;
+}
+
+.Port_ItemDesc {
+  font-family: "Inter", sans-serif;
+  color: #e9efff;
+}
+
+.Port_ItemTitle {
+  font-family: "Bungee", cursive;
+  color: #e9efff;
+}
+
+.PortItem_whole {
+  text-align: left;
+  align-items: center;
+  margin: 30px;
+}
+
+.Port_Text {
+  align-items: center;
+  padding: 20px;
+}
+
+.Port_Button {
+  background-color: #d2a517;
+  border: none;
+  border-radius: 20px;
+  width: 100px;
+  color: #e9efff;
+  height: 35px;
+}
