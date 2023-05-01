@@ -1,0 +1,9 @@
+.Header_name {
+  font-family: "Bungee", cursive;
+  color: #d2a517;
+}
+
+.Header_whole {
+  display: flex;
+  justify-content: space-between;
+}

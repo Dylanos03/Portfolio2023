@@ -1,0 +1,19 @@
+.About_whole {
+  display: flex;
+  height: 50rem;
+  align-items: center;
+}
+
+.About_text {
+  text-align: left;
+}
+
+.About_text h2 {
+  font-family: "Bungee", cursive;
+  color: #d2a517;
+}
+
+.About_text p {
+  font-family: "Inter", sans-serif;
+  color: #e9efff;
+}

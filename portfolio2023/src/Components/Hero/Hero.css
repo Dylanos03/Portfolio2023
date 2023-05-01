@@ -1,0 +1,24 @@
+.Hero_title {
+  font-family: "Bungee", cursive;
+  color: #e9efff;
+  text-align: left;
+  font-size: 48px;
+}
+
+.Hero_whole {
+  display: flex;
+  justify-content: space-between;
+  height: 40rem;
+  align-items: center;
+}
+
+.Hero_text {
+  flex-direction: column;
+}
+
+.Hero_text h3 {
+  font-family: "Bungee", cursive;
+  color: #d2a517;
+  text-align: left;
+  font-size: 24px;
+}
