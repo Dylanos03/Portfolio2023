@@ -9,10 +9,10 @@ function PortfolioItem({
   return (
     <div className="PortItem_whole container">
       <div className="row">
-        <div className="Port_image_box col-4">
+        <div className="Port_image_box col-12 col-lg-4">
           <img src={portfolioImg} className="Port_image" />
         </div>
-        <div className="Port_Text col-8">
+        <div className="Port_Text col-12 col-lg-8">
           <h3 className="Port_ItemTitle">{portfolioItemTitle}</h3>
           <p className="Port_ItemDesc">{portfolioItemDesc}</p>
           <div>

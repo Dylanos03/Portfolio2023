@@ -17,3 +17,9 @@
   font-family: "Inter", sans-serif;
   color: #e9efff;
 }
+
+@media screen and (max-width: 992px) {
+  .About_text {
+    text-align: center;
+  }
+}

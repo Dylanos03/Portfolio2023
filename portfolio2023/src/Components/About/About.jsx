@@ -3,11 +3,11 @@ import "./About.css";
 
 function About() {
   return (
-    <div className="About_whole">
-      <div className="col-6 About_image">
+    <div className="About_whole row">
+      <div className="col-12 col-lg-6 About_image">
         <h2>Placeholder</h2>
       </div>
-      <div className="col-6 About_text">
+      <div className="col-12 col-lg-6 About_text">
         <h2>About me</h2>
         <p>
           Hi I’m Dylan, I am a Digital Media BSc student at the University of

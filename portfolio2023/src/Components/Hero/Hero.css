@@ -1,7 +1,7 @@
 .Hero_title {
   font-family: "Bungee", cursive;
   color: #e9efff;
-  text-align: left;
+
   font-size: 48px;
 }
 
@@ -14,11 +14,27 @@
 
 .Hero_text {
   flex-direction: column;
+  text-align: left;
 }
 
 .Hero_text h3 {
   font-family: "Bungee", cursive;
   color: #d2a517;
-  text-align: left;
+
   font-size: 24px;
+}
+
+.Hero_Button {
+  padding: 15px;
+  margin: 10px;
+  border-radius: 20px;
+  color: #e9efff;
+  background-color: #d2a517;
+  border: none;
+}
+
+@media screen and (max-width: 768px) {
+  .Hero_text {
+    text-align: center;
+  }
 }

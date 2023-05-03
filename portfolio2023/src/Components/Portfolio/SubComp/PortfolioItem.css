@@ -17,11 +17,13 @@
   text-align: left;
   align-items: center;
   margin: 30px;
+  justify-content: center;
 }
 
 .Port_Text {
   align-items: center;
   padding: 20px;
+  text-align: left;
 }
 
 .Port_Button {
@@ -31,4 +33,10 @@
   width: 100px;
   color: #e9efff;
   height: 35px;
+}
+
+@media screen and (max-width: 992px) {
+  .Port_Text {
+    text-align: center;
+  }
 }

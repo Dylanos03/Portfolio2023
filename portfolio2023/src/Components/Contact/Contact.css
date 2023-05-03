@@ -6,4 +6,28 @@
   padding: 10px;
   margin: 10px;
   border-radius: 20px;
+  border: none;
+}
+
+.Cont_Message {
+  height: 300px;
+}
+
+.Cont_Button {
+  padding: 10px;
+  margin: 10px;
+  border-radius: 20px;
+  color: #e9efff;
+  background-color: #d2a517;
+  border: none;
+}
+
+.Cont_Title {
+  color: #d2a517;
+  font-family: "Bungee", cursive;
+}
+
+.Cont_By {
+  padding-top: 40px;
+  color: #e9efff;
 }
